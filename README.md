@@ -20,3 +20,4 @@ It will also become more convenient for the hospital to track down the health of
 
 The COVID-19 Pandemic has given a major blow to the medical system of our country and the world. India has witnessed over 1.1 Crore cases of COVID-19 and caused over 1.57 Lac deaths. As per various journals and newspaper articles a lot of causalities could have been avoided if our medical system would have been more equipped and the infected patient’s health could have been monitored in a more efficient way. Design a system which will help in monitoring a patient’s basic medical condition and track their location in an efficient way.   
 
+![alt text](https://github.com/abhinav-dholi/Patient_Monitoring_System/blob/main/circuit_design.png)
